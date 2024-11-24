@@ -21,6 +21,7 @@ Example: Here information about storage is provided, while other recipes often m
 
 Overall the document structure is consistent. However, sometimes the fonts do not allign with each other.
 Example: Some of list elements are in bold font, while others are not. Compare first and second items in list.
+
 ![Bold font](/technical_review/assets/2024-11-24_14-24-41.png)
 
 ## Structure
@@ -34,6 +35,7 @@ Example: Tips for preparation are located after the recipe is already finished, 
 Language of the document is appropriate for intended reader (I suppose intended reader is a person not trained professionally in cooking).
 However, unfortunately, there are some spelling errors.
 Example: Lasagne instead of Lasagna
+
 ![Lasagne](/technical_review/assets/2024-11-24_14-37-02.png)
 
 ## Compliance
