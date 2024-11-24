@@ -2,7 +2,7 @@
 This is a review for https://doryshibkova.github.io/
 
 Here is the PDF of original document with my comments:
-<embed src="https://sumanbogati.github.io/assets/review_pdf.pdf" type="application/pdf" />
+<embed src="https://anafkarf.github.io/technical_review/assets/review_pdf.pdf" type="application/pdf" />
 
 ## Content
 The document is a recipe of lasagna. However, author called their document a "report". This naming is mesleading, since the document contains instructions rather than observations. 
